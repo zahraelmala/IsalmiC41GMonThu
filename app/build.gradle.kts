@@ -9,6 +9,7 @@ android {
     buildFeatures {
         viewBinding = true
     }
+
     defaultConfig {
         applicationId = "com.route.islamic41gmonthu"
         minSdk = 23
